@@ -5,7 +5,7 @@ anyjson
 gevent-socketio
 gevent-websocket==0.3.6
 greenlet
-beaker==1.6.3
+beaker==1.12.0
 pyzmq==2.2.0.1
 circus
 gevent
